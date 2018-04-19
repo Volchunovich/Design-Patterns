@@ -1,6 +1,5 @@
 *
 !*.cs
-/obj/Debug/
 !*.config
 !.gitignore
 !.gitattributes
