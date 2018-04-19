@@ -1,7 +1,8 @@
 *
 !*/
+*/*/obj/
+*/*/Properties
 !*.cs
-!*.config
 !.gitignore
 !.gitattributes
 !.gitmodules
